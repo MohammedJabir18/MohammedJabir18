@@ -1,6 +1,6 @@
 <div align="">
 
-### <span style= "margin-right: 125px" >Hi there<img src="https://github.com/MohammedJabir18/MohammedJabir18/blob/main/assets/hi.gif?raw=true" width="30px">,</span><br> I'm <span style="font-size:30px">𝙼𝚘𝚑𝚊𝚖𝚖𝚎𝚍 𝙹𝚊𝚋𝚒𝚛
+### <span style= "margin-right: 125px" >Hi there<img src="https://github.com/MohammedJabir18/MohammedJabir18/blob/main/assets/hi.gif?raw=true" width="30px">,</span><br> I'm <span style="font-size:35px">𝙼𝚘𝚑𝚊𝚖𝚖𝚎𝚍 𝙹𝚊𝚋𝚒𝚛
 
 <div align="center">
 
@@ -50,14 +50,16 @@ I'm a passionate computer engineering student with a deep love for coding and AI
  <br>My dream is to become a proficient Python and Django developer, specializing in AI development. I'm excited about the endless possibilities of creating intelligent solutions that can positively impact the world.<br>
  <br><span style= font-size:20px;font-weight:bold;font-family: "Lucida Console", "Courier New", monospace;>🤝 Let's Connect</span><br>
   <br>
-  <ul>
-  <li>📫 Reach me via email at [Email](jabirahmedz111@gmail.com)</li>
-  <li>🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-jabir-81162a248/)</li>
-  <li>🌐 Explore my projects on [GitHub](https://github.com/MohammedJabir18)</li>
-  </ul>
-  <br><span style= font-size:20px;font-weight:bold;font-family: "Lucida Console", "Courier New", monospace;>🚀 Always Learning, Always Growing</span><br>
-  <br>I believe in the power of continuous learning and am enthusiastic about staying updated on the latest trends in technology. Join me on this exciting journey as we explore the vast realm of computer engineering, AI, and beyond!<br>
+  
+  - 📫 Reach me via email at [Email](jabirahmedz111@gmail.com)
+  - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-jabir-81162a248/)
+  - 🌐 Explore my projects on [GitHub](https://github.com/MohammedJabir18)
+  
 <br>
+<span style= font-size:20px;font-weight:bold;font-family: "Lucida Console", "Courier New", monospace;>🚀 Always Learning, Always Growing</span><br>
+<br>I believe in the power of continuous learning and am enthusiastic about staying updated on the latest trends in technology. Join me on this exciting journey as we explore the vast realm of computer engineering, AI, and beyond!<br>
+<br>
+
 </div>
 <div align="center">
 
