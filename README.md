@@ -1,6 +1,6 @@
 <div align="">
 
-### <span style= "margin-right: 125px" >Hi there<img src="https://github.com/MohammedJabir18/MohammedJabir18/blob/main/assets/hi.gif?raw=true" width="30px">,</span><br> I'm <span style="font-size:35px">𝙼𝚘𝚑𝚊𝚖𝚖𝚎𝚍 𝙹𝚊𝚋𝚒𝚛
+### <span style= "margin-right: 125px" >Hi there<img src="https://github.com/MohammedJabir18/MohammedJabir18/blob/main/assets/hi.gif?raw=true" width="30px">,</span><br> I'm <span style="font-size:40px">𝙼𝚘𝚑𝚊𝚖𝚖𝚎𝚍 𝙹𝚊𝚋𝚒𝚛</span>
 
 <div align="center">
 
@@ -48,6 +48,7 @@ I'm a passionate computer engineering student with a deep love for coding and AI
  </ul>
  <br><span style= font-size:20px;font-weight:bold;font-family: "Lucida Console", "Courier New", monospace;>🌱 Future Goals</span><br>
  <br>My dream is to become a proficient Python and Django developer, specializing in AI development. I'm excited about the endless possibilities of creating intelligent solutions that can positively impact the world.<br>
+ <br>
  <br><span style= font-size:20px;font-weight:bold;font-family: "Lucida Console", "Courier New", monospace;>🤝 Let's Connect</span><br>
   <br>
   
@@ -62,6 +63,15 @@ I'm a passionate computer engineering student with a deep love for coding and AI
 
 </div>
 <div align="center">
+<div align="center">
+
+<h3 align="center">
+  Profile 3D Contributions 🔰
+</h3>
+
+![profile 3d](https://github.com/MohammedJabir18/MohammedJabir18/blob/main/profile-3d-contrib/profile-night-rainbow.svg?raw=true)
+
+</div>
 
 <h3 align="center">📊 GitHub Stats:</h3>
 
@@ -112,12 +122,13 @@ I'm a passionate computer engineering student with a deep love for coding and AI
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**My Contributions** 😥
-![snake gif](https://github.com/MohammedJabir18/MohammedJabir18/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
+<h3>My Contributions 😥</h3>
 
-</div>
+![snake gif](https://github.com/MohammedJabir18/MohammedJabir18/blob/king-cobra/github-contribution-grid-snake-dark.svg?raw=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 <div align=center>
 
@@ -130,6 +141,34 @@ I'm a passionate computer engineering student with a deep love for coding and AI
 <h3>💻 Tech Stack:</h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+
+<p align="center">
+<b>
+  Repo Details 🤙
+</b>
+</p>
+
+<div align="center">
+
+![repo size](https://img.shields.io/github/repo-size/MohammedJabir18/MohammedJabir18?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub forks](https://img.shields.io/github/forks/MohammedJabir18/MohammedJabir18?&labelColor=black&color=0fb9b1&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/MohammedJabir18/MohammedJabir18?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/MohammedJabir18/MohammedJabir18?logo=github&labelColor=black&color=e5e4e2&style=for-the-badge)
+
+</div>
+
+<p align="center">
+<b>
+  Workflows status badges 🤖
+</b>
+</p>
+
+<div align="center">
+
+[![Generate Snake](https://github.com/MohammedJabir18/MohammedJabir18/actions/workflows/snake.yml/badge.svg)](https://github.com/MohammedJabir18/MohammedJabir18/actions/workflows/snake.yml)
+[![GitHub-Profile-3D-Contrib](https://github.com/MohammedJabir18/MohammedJabir18/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/MohammedJabir18/MohammedJabir18/actions/workflows/profile-3d.yml)
+
+</div>
 
 <h3> 💰 You can help me by Donating<h3>
 
