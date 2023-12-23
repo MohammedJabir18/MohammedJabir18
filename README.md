@@ -1,7 +1,6 @@
 <div align="">
 
-### <span style= "margin-right: 125px" >Hi there<img src="https://github.com/MohammedJabir18/MohammedJabir18/blob/main/assets/hi.gif?raw=true" width="30px">,</span>
-<br> I'm <span style="font-size: 45px;">𝙼𝚘𝚑𝚊𝚖𝚖𝚎𝚍 𝙹𝚊𝚋𝚒𝚛</span>
+### <span style= "margin-right: 125px" >Hi there<img src="https://github.com/MohammedJabir18/MohammedJabir18/blob/main/assets/hi.gif?raw=true" width="30px">,</span><br> I'm <span style="font-size: 45px;">𝙼𝚘𝚑𝚊𝚖𝚖𝚎𝚍 𝙹𝚊𝚋𝚒𝚛</span>
 
 <div align="center">
 
