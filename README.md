@@ -4,14 +4,14 @@
 
 <div align="center">
 
-<img src="https://github.com/MohammedJabir18/MohammedJabir18/blob/main/assets/1703236179301.gif?raw=true" width= 1800px>
+<img src="https://github.com/MohammedJabir18/MohammedJabir18/blob/main/assets/profile_glitch.gif?raw=true" width= 1800px>
 
 </div>
 <div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4500&color=fc0011&background=EB00FF00&center=true&width=500&lines=Computer+Engineer;Front-end+Developer;Back-end+Developer;Full-stack+Developer;Web+Developer;Mobile+App+Developer;Desktop+Software+Developer;AI%2FML+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4500&color=fc0011&background=EB00FF00&center=true&width=500&lines=Computer+Engineer;Full-stack+Developer;Web+Developer;Mobile+App+Developer;Desktop+Software+Developer;AI%2FML+Developer)](https://git.io/typing-svg)
 
 </div>
 
