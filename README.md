@@ -4,14 +4,16 @@
 
 <div align="center">
 
-<img src="https://github.com/MohammedJabir18/MohammedJabir18/blob/main/assets/profile_glitch.gif?raw=true" width= 1800px>
+<img src="https://github.com/MohammedJabir18/MohammedJabir18/blob/main/assets/Profile_2.jpg?raw=true" width= 1800px>
 
 </div>
 <div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4500&color=fc0011&background=EB00FF00&center=true&width=500&lines=Computer+Engineer;Full-stack+Developer;Web+Developer;Mobile+App+Developer;Desktop+Software+Developer;AI%2FML+Developer)](https://git.io/typing-svg)
+ ### I have interest in:
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4600&color=66FF00&background=EB00FF00&center=true&width=500&lines=Deep+Learning;Machine+Learning;Computer+vision;Natural+Language+Processing;MLOps;Generative+AI;)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,36 +26,37 @@
 </div>
 <br>
 <div style= font-weight:600;font-family: "Lucida Console", "Courier New", monospace>
-I'm a passionate computer engineering student with a deep love for coding and AI development. Currently diving into the world of cross-platform app development with Flutter, I'm on a journey to master the art of building beautiful and efficient user interfaces.
+I'm a self-taught data scientist and machine learning enthusiast passionate about MLOps, Generative AI, and Deep Learning. I'm continuously learning and experimenting with the latest technologies to advance my skills.
 </div>
 <br>
 <div style= font-family: "Lucida Console", "Courier New", monospace;>
-<span style= font-size:20px;font-weight:bold;font-family: "Lucida Console", "Courier New", monospace;>🚀 What I'm Currently Up To</span><br>
+<span style= font-size:20px;font-weight:bold;font-family: "Lucida Console", "Courier New", monospace;>🚀 About Me</span><br>
 <br><ul>
- <li>📚 Studying computer engineering with a focus on AI and machine learning.
- </li>
- <li>💻 Exploring the wonders of Flutter for cross-platform app development.
- </li>
- <li>🐍 Sharpening my Python skills with a special interest in Django for web development.
- </li>
- <li>🌐 Learning and experimenting with cutting-edge technologies in the AI landscape.
+ <li>🧠 <b>Learning Focus</b>: MLOps, Generative AI, and Deep Learning.</li>
+ <li>📚 <b>Self-learner</b>: Committed to expanding my knowledge and contributing to open-source projects.</li>
+ <li>💼 <b>Goals</b>: Building efficient, scalable, and innovative machine learning solutions.
  </li>
  </ul>
- <br> <span style= font-size:20px;font-weight:bold;font-family: "Lucida Console", "Courier New", monospace;>🔧 Tech Stack</span><br>
+ <br> <span style= font-size:20px;font-weight:bold;font-family: "Lucida Console", "Courier New", monospace;>🛠️ Tech Stack & Skills</span><br>
  <br><ul>
- <li>Languages: Python, Java, C</li>
- <li>Frameworks: Flutter, Django</li>
- <li>Concepts: Object-Oriented Programming (OOP), Data Structures, AI (learning)</li>
- <li>Tools: Git, GitHub</li>
+ <li><b>Programming Languages</b>: Python, SQL, Bash</li>
+ <li><b>Machine Learning & Deep Learning</b>: TensorFlow, PyTorch, Scikit-learn, Keras</li>
+ <li><b>MLOps Tools</b>: Docker, Kubernetes, MLflow, DVC, GitHub Actions</li>
+ <li><b>Data Visualization</b>: Matplotlib, Seaborn, Plotly</li>
+ <li><b>Cloud Services</b>: AWS, GCP, Azure</li>
  </ul>
- <br><span style= font-size:20px;font-weight:bold;font-family: "Lucida Console", "Courier New", monospace;>🌱 Future Goals</span><br>
- <br>My dream is to become a proficient Python and Django developer, specializing in AI development. I'm excited about the endless possibilities of creating intelligent solutions that can positively impact the world.<br>
+ <br><span style= font-size:20px;font-weight:bold;font-family: "Lucida Console", "Courier New", monospace;>🌱 What I’m Currently Learning</span><br>
+ <br><ul>
+ <li>Advanced MLOps techniques</li>
+ <li>Fine-tuning generative AI models</li>
+ <li>Scalable deep learning solutions</li>
+ </ul>
  <br>
  <br><span style= font-size:20px;font-weight:bold;font-family: "Lucida Console", "Courier New", monospace;>🤝 Let's Connect</span><br>
   <br>
   
   - 📫 Reach me via email at [Email](jabirahmedz111@gmail.com)
-  - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-jabir-81162a248/)
+  - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed--jabir/)
   - 🌐 Explore my projects on [GitHub](https://github.com/MohammedJabir18)
   
 <br>
