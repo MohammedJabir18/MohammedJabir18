@@ -84,7 +84,7 @@ I'm a self-taught data scientist and machine learning enthusiast passionate abou
 
 <div align="center">
 <details>
-<summary> 2023 GitHub Commits
+<summary> 2025 GitHub Commits
 </summary>
 <div align="center">
 
