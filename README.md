@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://github.com/MohammedJabir18/MohammedJabir18/blob/main/assets/Profile_2.jpg?raw=true" width= 1800px>
+<img src="assets\master.gif" width= 1800px>
 
 </div>
 <div>
