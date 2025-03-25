@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="assets\master.gif" width= 800px>
+<img src="assets\master.gif" width= 600px>
 
 </div>
 <div>
